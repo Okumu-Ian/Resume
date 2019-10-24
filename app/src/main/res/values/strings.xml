@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Résumé</string>
+    <string name="full_name_here">John Doe</string>
+    <string name="location_here">Austin TX</string>
+    <string name="resume_title">About Me</string>
+    <string name="iam_name">I am John Doe</string>
+    <string name="enter_something">Enter Something...</string>
+</resources>
